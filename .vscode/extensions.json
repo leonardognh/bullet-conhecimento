@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "angular.ng-template",
+    "YoavBls.pretty-ts-errors",
+    "esbenp.prettier-vscode",
+    "firsttris.vscode-jest-runner",
+    "PKief.material-icon-theme",
+    "dbaeumer.vscode-eslint",
+    "johnpapa.Angular2",
+    "ChakrounAnas.turbo-console-log"
+  ]
+}
